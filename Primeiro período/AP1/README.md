@@ -9,7 +9,7 @@
     <p> Ao contrário das expectativas, o primeiro semestre não abrangeu programação.</p>
     <p> Em contrapartida, houveram muitas disciplinas teóricas, a fim de desenvolver conhecimento dos fundamentos necessários para o curso. Um exemplo disso é esta disciplina: algoritmos e programação 1, que visava desenvolver lógica de programação.</p>
     <p>Para tal, foi utilizada uma pseudo-linguagem bem próxima à linguagem humana: o visualg.</p>
-    <br>
+<hr>
 </div>
 
 <div>
