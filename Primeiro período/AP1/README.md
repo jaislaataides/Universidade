@@ -47,8 +47,8 @@
                 manipulações com vetores
             </li>
         </ul>
-        <h2> <h2>
     </p>
+    <h2> </h2>
     <p>
         Como é possível percerber, a disciplina teve o intuito apenas de apresentar os conceitos básicos. Além disso, ocorreu um trabalho final da matéria que deveria conter todos os conteúdos estudados e também está disponível nesse repositório.
     </p>
