@@ -1,5 +1,5 @@
 <div align="center">
-    <img align="center" src="https://i.pinimg.com/564x/f5/99/84/f5998401a58bba4fca83b1eb5adc8ad9.jpg" width="500px" height="250px"> 
+    <img align="center" src="https://i.pinimg.com/564x/f5/99/84/f5998401a58bba4fca83b1eb5adc8ad9.jpg" width="700px" height="250px"> 
     <h1 align="center">Algotitmos e programação 1</h1>
     
 </div>
