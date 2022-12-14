@@ -3,7 +3,7 @@
     <h3>Índices</h3>
     <br>
     <ul>
-        <li><a href="#blbc">Para que serve a busca em largura com backtracking</a></li>
+        <li><a href="#blbc">Para que serve a busca em largura com backtracking e número de caminhos</a></li>
         <li><a href="#funcionamento">Como esse código funciona</a></li>
         <li><a href="#classes">Classes</a></li>
         <li><a href="#base">Base para a construção desse algoritmo</a></li>
