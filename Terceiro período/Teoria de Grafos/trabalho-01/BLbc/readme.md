@@ -1,7 +1,7 @@
 <div align="left">
     <h1 align="center">Algoritmo de busca em largura com backtracking e número de caminhos</h1>
-    <br>
     <h3>Índices</h3>
+    <br>
     <ul>
         <li><a href="#blbc">Para que serve a busca em largura com backtracking</a></li>
         <li><a href="#funcionamento">Como esse código funciona</a></li>
@@ -10,15 +10,18 @@
     </ul>
     <h2><a name="blbc"></a></h2>
     <h3> Para que serve um algoritmo de busca em largura com backtracking e número de caminhos? </h3>
-        <p> A busca em largura é responsável por encontrar o comprimento do menor caminho em grafos não ponderados, por meio de um rotulamento massivo de todos os vértices do grafo tendo como relação a distância do vértice inicial.</p>
-        <p>     O backtracking é utilizado nesse caso para, a partir do vértice final, rotular os vértices anteriores condicionalmente a fim de obter o número de caminhos mais curtos.</p>
-        <h2><a name="funcionamento"></a></h2>
-    <br>
+    <br>    
+    <p> A busca em largura é responsável por encontrar o comprimento do menor caminho em grafos não ponderados, por meio de um rotulamento massivo de todos os vértices do grafo tendo como relação a distância do vértice inicial.</p>
+
+    <p>     O backtracking é utilizado nesse caso para, a partir do vértice final, rotular os vértices anteriores condicionalmente a fim de obter o número de caminhos mais curtos.</p>
+    <h2><a name="funcionamento"></a></h2>
     <h3>Como esse código funciona</h3>
+    <br>
     <p><strong>Entrada : </strong> número de vértices do grafo, <a href="https://www.notion.so/Representa-o-matricial-de-grafos-7b2e7272807f4bc6a256df841af8aff0">matriz de adjacência</a>, vértice inicial e final, nessa ordem.</p>
     <p><strong>Saída : </strong>número de caminhos mais curtos, comprimento desse(s) caminho(s) mais curto(s), assim como todos os caminhos mais curtos alternativos.</p>
     <h2><a name="classes"></a></h2>
     <h3>Classes</h3>
+    <br>
     <p><strong>Interface : </strong> nessa classe estão organizados os JComponents, recebendo as informações de entrada, direcionando-as, conseguindo as informações de saída e exibindo ao usuário. Exemplo: </p>
     <br>
     <div align="center">
