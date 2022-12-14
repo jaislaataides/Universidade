@@ -11,8 +11,10 @@
     <h2><a name="blbc"></a></h2>
     <h3> Para que serve um algoritmo de busca em largura com backtracking e número de caminhos? </h3>
     <br>    
+    <blockquote>
     <p> A busca em largura é responsável por encontrar o comprimento do menor caminho em grafos não ponderados, por meio de um rotulamento massivo de todos os vértices do grafo tendo como relação a distância do vértice inicial.</p>
     <p>     O backtracking é utilizado nesse caso para, a partir do vértice final, rotular os vértices anteriores condicionalmente a fim de obter o número de caminhos mais curtos.</p>
+    </blockquote>
     <h2><a name="funcionamento"></a></h2>
     <h3>Como esse código funciona</h3>
     <br>
