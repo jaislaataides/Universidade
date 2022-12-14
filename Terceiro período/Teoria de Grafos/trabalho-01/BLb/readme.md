@@ -14,7 +14,7 @@
     <h2> </h2>
     <h3>Classes</h3>
     <br>
-    <p><strong>- Interface : </strong> nessa classe estão organizados os JComponents, recebendo as informações de entrada, direcionando-as, conseguindo as informações de saída e exibindo ao usuário. Exemplo: </p>
+    <p><strong> Interface : </strong> nessa classe estão organizados os JComponents, recebendo as informações de entrada, direcionando-as, conseguindo as informações de saída e exibindo ao usuário. Exemplo: </p>
     <br>
     <div align="center">
         <img align="center" width="40%" src="https://media.discordapp.net/attachments/1017139709090209824/1051526818257174729/image.png">
