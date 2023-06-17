@@ -7,7 +7,7 @@
         <p> A proposta desse trabalho foi a utilização de vários dos conceitos aprendidos ao longo do semestre sobre orientação a objetos.</p>
         <p> Além disso, foi utilizado o padrão Singleton para instância de apenas um objeto de uma determinada classe.</p>
         <p> Sobre o tema, o trabalho buscou uma abstração mais simples de um dos jogos mais conhecidos e jogados: o Minecraft. Nessa aplicação, nos abstemos ao escopo bidimensional e funcionalidades mais básicas: geração de mundo e personagem, posicionamento e destruição de blocos.</p>
-        <hr>
+        <br>
     <h2 align="center">Classes</h2>
     <p><strong>Janela : </strong> nessa classe está, basicamente, a instância dos blocos, movimentação do personagem e posicionamento e destruição dos blocos, tudo isso obtido a partir de outras classes, através da composição.
     </p>
